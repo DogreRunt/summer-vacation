@@ -1,16 +1,38 @@
 body {
+    background-color: #17bee8;
 }
 
 h1 {
-    font-family:_____
-    color: _____
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: #fcfcfa
+}
+
+h2 {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: #fcfcfa
 }
 
 p {
-    font-family: _____
-    color: _____
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: #fcfcfa
 }
 
 img {
     max-width: 100%
 }
+
+a:link {
+    color: #fff673
+}
+
+a:visited {
+    color: #fcfcfa
+}
+
+ a:hover {
+    color: #fff673
+}
+
+a:active {
+     color: #fff673
+} 
